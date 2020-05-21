@@ -1,0 +1,1 @@
+python3 code/hw9_train_baseline.py $1 $2

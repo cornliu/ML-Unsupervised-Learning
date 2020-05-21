@@ -1,0 +1,1 @@
+python3 code/hw9_test_best.py $1 $2 $3
